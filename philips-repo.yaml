@@ -1,0 +1,3 @@
+business-category: "${{ parameters.owner | projectSlug }}"
+business-category-details: https://share.philips.com/sites/SWCoE/Lists/List%20of%20Business%20Categories/DispForm.aspx?ID="${{ parameters.owner | projectSlug }}"
+version: 1
